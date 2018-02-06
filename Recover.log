@@ -1,0 +1,8 @@
+﻿Timestamp	Filename	Error	Message
+2018-02-05 16:45:48.824 +0700	InventorySystem.fmp12	0	*** Started consistency check of improperly closed file, total of 162 block(s) to check
+2018-02-05 16:45:48.861 +0700	InventorySystem.fmp12	8432	Page 155 marked free but not in free list
+2018-02-05 16:45:48.895 +0700	InventorySystem.fmp12	8432	Page 157 marked free but not in free list
+2018-02-05 16:45:48.919 +0700	InventorySystem.fmp12	8432	Page 158 marked free but not in free list
+2018-02-05 16:45:48.953 +0700	InventorySystem.fmp12	8432	Page 162 marked free but not in free list
+2018-02-05 16:45:48.986 +0700	InventorySystem.fmp12	0	Reset maximum block sequence number to 25065
+2018-02-05 16:45:49.020 +0700	InventorySystem.fmp12	0	*** Completed consistency check, checked 162 block(s)
